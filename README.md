@@ -2,6 +2,9 @@
 Usages (CMD LINE):
 ```
 php wa.php
+```
+Output:
+```
 First Range (+14044625390): xxxxxxxxxxxx
 Last Range  (+19999999999): xxxxxxxxxxxx
 ...
