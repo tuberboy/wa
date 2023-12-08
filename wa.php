@@ -1,4 +1,7 @@
 <?php
+// Copyright (c) 2022-2024 Tuber Boy. All rights reserved.
+// Use of this source code is governed by an MIT license
+// that can be found in the LICENSE file.
 set_time_limit(0);
 error_reporting(0);
 function check_number($number) {
@@ -33,7 +36,7 @@ function check_number($number) {
 }
 
 wa:
-echo "First Range (+14044822340): ";
+echo "First Range (+14044625390): ";
 $first = trim(fgets(STDIN));
 echo "Last Range  (+19999999999): ";
 $last = trim(fgets(STDIN));
