@@ -36,9 +36,9 @@ function check_number($number) {
 }
 
 wa:
-echo "First Range (+14044625390): ";
+echo "First Range (14044625390): ";
 $first = trim(fgets(STDIN));
-echo "Last Range  (+19999999999): ";
+echo "Last Range  (19999999999): ";
 $last = trim(fgets(STDIN));
 
 if($last <= $first){
